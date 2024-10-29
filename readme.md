@@ -1,5 +1,5 @@
 #👋 Hi, I’m Cody Stuart
-##💼 DevOps Engineer | Veteran | Active Security Clearance
+##💼 DevSecOps Engineer | ![USMC LOGO]("C:\Users\codyk\OneDrive\Pictures\marines_logo.jpg") USMC Veteran | Active Security Clearance
 ##📍 Orlando, FL
 
 ### 🔧 Technical Skills:
@@ -27,10 +27,10 @@
 Proficient in system administration, cloud deployments, networking protocols, and computer systems security (Security+ certified)
 
 ### 🚀 Current Focus: 
-Working on streamlining DevOps workflows with a focus on automation, infrastructure security, and scalability. Skilled in scripting and template creation to optimize enterprise infrastructure.
+My current focus is improving my ability to write clean, functional, and modular code. As well as supporting my current team with highly effective solutions that are supported by DevOps principles.  
 
 ### 🌱 Always Learning:
-Passionate about enhancing my DevOps and programming skills, currently studying Computer Science at Southern New Hampshire University.
+I am passionate about enhancing my DevOps and programming skills, I am currently studying Software Engineering at [Southern New Hampshire University](https://www.snhu.edu/).
 
 ### 📫 Let’s Connect:
-[@My Linkedin](https://www.linkedin.com/in/cody-stuart/) | [@Email](codystuart1996@gmail.com)
+[My Linkedin](https://www.linkedin.com/in/cody-stuart/) | [Email](codystuart1996@gmail.com)
