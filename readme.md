@@ -1,5 +1,5 @@
 # Read About Me
-## **Cody Stuart** | 💼 DevSecOps Engineer | USMC Veteran | Active Security Clearance
+## Cody Stuart | 💼 DevSecOps Engineer | 🪖 USMC Veteran | Active Security Clearance
 ## 📍 Orlando, FL
 
 ### 🔧 Technical Skills:
